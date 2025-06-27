@@ -4,207 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "ecd3ed2bfb8f586c",
+        "id": "78d02d285c480afc",
         "type": "tabs",
         "children": [
           {
-            "id": "998131637a10d988",
+            "id": "d6980d4d3b766cdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第01部分：行政法学体系和基本结构（02）.md",
+                "file": "24宪法学+第02章+第02节：政权组织和国家结构形式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第01部分：行政法学体系和基本结构（02）"
+              "title": "24宪法学+第02章+第02节：政权组织和国家结构形式"
             }
           },
           {
-            "id": "9d87cce316f73d8b",
+            "id": "a89d4f7d43b8ee3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04胡振客观导学1.30+.md",
+                "file": "28宪法学+第02章+第05节：特别行政区制度.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04胡振客观导学1.30+"
-            }
-          },
-          {
-            "id": "df4f246ac9b6eaac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07法理学+第01章+第05-06节：法律部门与法律体系、法的效力.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "07法理学+第01章+第05-06节：法律部门与法律体系、法的效力"
-            }
-          },
-          {
-            "id": "074b494e2b40cf6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04.法理学+第01章+第03节：法的要素（01）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04.法理学+第01章+第03节：法的要素（01）"
-            }
-          },
-          {
-            "id": "48a53bc4add35ec8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04.法理学+第01章+第03节：法的要素（01）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04.法理学+第01章+第03节：法的要素（01）"
-            }
-          },
-          {
-            "id": "84b315155e5e5cfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.法理学+第01章+第01节：法的定义（01）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01.法理学+第01章+第01节：法的定义（01）"
-            }
-          },
-          {
-            "id": "b484f5c20f40ed97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02.法理学+第01章+第01节：法的定义（02）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02.法理学+第01章+第01节：法的定义（02）"
-            }
-          },
-          {
-            "id": "3be0b33a3c62bd9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03.法理学+第01章+第02节：法的价值.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03.法理学+第01章+第02节：法的价值"
-            }
-          },
-          {
-            "id": "d6f8cdde348fcb99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06.法理学+第01章+第04节：法的渊源与分类（01）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06.法理学+第01章+第04节：法的渊源与分类（01）"
-            }
-          },
-          {
-            "id": "5ff001faa51cd455",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08法理学+第01章+第07节：法律关系.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08法理学+第01章+第07节：法律关系"
-            }
-          },
-          {
-            "id": "34a4a173b4d2904b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10.法理学+第01章+第08节：法律责任.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10.法理学+第01章+第08节：法律责任"
-            }
-          },
-          {
-            "id": "7ee814bd3b975139",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11法理学+第02章+第01-02节：立法、法的实施.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11法理学+第02章+第01-02节：立法、法的实施"
-            }
-          },
-          {
-            "id": "c89801a33c3a4020",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "12.法理学+第02章+第03节：法适用的一般原理.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12.法理学+第02章+第03节：法适用的一般原理"
-            }
-          },
-          {
-            "id": "a896797ff5cdc10a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13法理学+第02章+第04节：法律的推理.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "13法理学+第02章+第04节：法律的推理"
+              "title": "28宪法学+第02章+第05节：特别行政区制度"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "行政法学体系和基本结构",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -351,13 +183,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a896797ff5cdc10a",
+  "active": "a89d4f7d43b8ee3a",
   "lastOpenFiles": [
+    "24宪法学+第02章+第02节：政权组织和国家结构形式.md",
+    "28宪法学+第02章+第05节：特别行政区制度.md",
+    "25宪法学+第02章+第03节：我国的行政区划和民族区域自治制度.md",
+    "20.宪法学+第01章：宪法的基本理论（02）.md",
+    "18.法理学+补充专题+立法法（02）.md",
+    "17.法理学+补充专题+立法法（01）.md",
+    "07法理学+第01章+第05-06节：法律部门与法律体系、法的效力.md",
+    "08法理学+第01章+第07节：法律关系.md",
+    "10.法理学+第01章+第08节：法律责任.md",
+    "11法理学+第02章+第01-02节：立法、法的实施.md",
     "12.法理学+第02章+第03节：法适用的一般原理.md",
     "13法理学+第02章+第04节：法律的推理.md",
-    "11法理学+第02章+第01-02节：立法、法的实施.md",
-    "10.法理学+第01章+第08节：法律责任.md",
-    "08法理学+第01章+第07节：法律关系.md",
     "06.法理学+第01章+第04节：法的渊源与分类（01）.md",
     "07法理学+第01章+第05-06节：法律部门与法律体系、法的效力-复制.md",
     "03.法理学+第01章+第02节：法的价值.md",
@@ -365,7 +204,6 @@
     "01.法理学+第01章+第01节：法的定义（01）.md",
     "04.法理学+第01章+第03节：法的要素（01）.md",
     "05.法理学+第01章+第03节：法的要素（02）.md",
-    "07法理学+第01章+第05-06节：法律部门与法律体系、法的效力.md",
     "25ZH-真金题-理论法.pdf",
     "25ZH-真金题-行政法 .pdf",
     "2024年系统强化理论法-马峰.pdf",
@@ -376,12 +214,6 @@
     "第02部分+第05章：行政强制.md",
     "第02部分+第04章：行政处罚.md",
     "第02部分+第03章：行政许可.md",
-    "第02部分+第02章：具体行政行为一般理论.md",
-    "第02部分+第01章：行政主体.md",
-    "第01部分：行政法学体系和基本结构（01）.md",
-    "第01部分：行政法学体系和基本结构（02）.md",
-    "第01-02个基础概念：刑法的渊源、刑法的解释.md",
-    "2025韩祥波法考民法主客一体精讲课43.md",
     "2024年法考基础夯实阶段讲义-行政法-李佳.pdf",
     "2024胡震理论法客观导学讲义_1704548453561.pdf",
     "2024胡震理论法客观导学讲义（1.5）_1704548453561.pdf",
