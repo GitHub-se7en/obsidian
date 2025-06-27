@@ -27,16 +27,100 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "28宪法学+第02章+第05节：特别行政区制度.md",
+                "file": "18.法理学+补充专题+立法法（02）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "28宪法学+第02章+第05节：特别行政区制度"
+              "title": "18.法理学+补充专题+立法法（02）"
+            }
+          },
+          {
+            "id": "c41e89da4d62c3b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "26宪法学+第02章+第04节：各级人大的选举制度（01）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "26宪法学+第02章+第04节：各级人大的选举制度（01）"
+            }
+          },
+          {
+            "id": "d50e36bc8a3e21f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "27宪法学+第02章+第04节：各级人大的选举制度（02）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "27宪法学+第02章+第04节：各级人大的选举制度（02）"
+            }
+          },
+          {
+            "id": "4ba6edfa66a76542",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "32宪法学+第04章：国家机构（01）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "32宪法学+第04章：国家机构（01）"
+            }
+          },
+          {
+            "id": "5bd0fc97469857f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "33宪法学+第04章：国家机构（02）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "33宪法学+第04章：国家机构（02）"
+            }
+          },
+          {
+            "id": "7e81fcfe001369e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "34宪法学+第04章：国家机构（03）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "34宪法学+第04章：国家机构（03）"
+            }
+          },
+          {
+            "id": "9154c1cab7de5546",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "35宪法学+第05章：地方国家机关.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "35宪法学+第05章：地方国家机关"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -183,13 +267,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a89d4f7d43b8ee3a",
+  "active": "9154c1cab7de5546",
   "lastOpenFiles": [
-    "24宪法学+第02章+第02节：政权组织和国家结构形式.md",
+    "34宪法学+第04章：国家机构（03）.md",
+    "35宪法学+第05章：地方国家机关.md",
+    "33宪法学+第04章：国家机构（02）.md",
+    "32宪法学+第04章：国家机构（01）.md",
+    "27宪法学+第02章+第04节：各级人大的选举制度（02）.md",
+    "26宪法学+第02章+第04节：各级人大的选举制度（01）.md",
+    "18.法理学+补充专题+立法法（02）.md",
     "28宪法学+第02章+第05节：特别行政区制度.md",
+    "24宪法学+第02章+第02节：政权组织和国家结构形式.md",
     "25宪法学+第02章+第03节：我国的行政区划和民族区域自治制度.md",
     "20.宪法学+第01章：宪法的基本理论（02）.md",
-    "18.法理学+补充专题+立法法（02）.md",
     "17.法理学+补充专题+立法法（01）.md",
     "07法理学+第01章+第05-06节：法律部门与法律体系、法的效力.md",
     "08法理学+第01章+第07节：法律关系.md",
@@ -208,12 +298,6 @@
     "25ZH-真金题-行政法 .pdf",
     "2024年系统强化理论法-马峰.pdf",
     "04胡振客观导学1.30+.md",
-    "09胡震客观精讲第9讲国家机构6.25.md",
-    "第03部分+第06章：诉讼和复议的衔接.md",
-    "第03部分+第07章：争讼主体（01）.md",
-    "第02部分+第05章：行政强制.md",
-    "第02部分+第04章：行政处罚.md",
-    "第02部分+第03章：行政许可.md",
     "2024年法考基础夯实阶段讲义-行政法-李佳.pdf",
     "2024胡震理论法客观导学讲义_1704548453561.pdf",
     "2024胡震理论法客观导学讲义（1.5）_1704548453561.pdf",
