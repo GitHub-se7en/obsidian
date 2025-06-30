@@ -118,9 +118,121 @@
               "icon": "lucide-file",
               "title": "35宪法学+第05章：地方国家机关"
             }
+          },
+          {
+            "id": "9ee2937f168f4304",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "29宪法学+第02章+第06节：基层群众自治制度.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "29宪法学+第02章+第06节：基层群众自治制度"
+            }
+          },
+          {
+            "id": "ae7af8a7782f5724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30宪法学+第02章+第07节：国家标志.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "30宪法学+第02章+第07节：国家标志"
+            }
+          },
+          {
+            "id": "79a6b913c00d9bed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "31宪法学+第03章：公民的基本权利和义务.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "31宪法学+第03章：公民的基本权利和义务"
+            }
+          },
+          {
+            "id": "1a55e6d33c03929d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "22宪法学+第01章：宪法的基本理论（04）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "22宪法学+第01章：宪法的基本理论（04）"
+            }
+          },
+          {
+            "id": "37f3943d2dd48716",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04.法理学+第01章+第03节：法的要素（01）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04.法理学+第01章+第03节：法的要素（01）"
+            }
+          },
+          {
+            "id": "93dc57b49efb23b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01刘安琪讲商经客观基础强化.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01刘安琪讲商经客观基础强化"
+            }
+          },
+          {
+            "id": "dc7df04a2213b5a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02刘安琪讲商经客观基础强化.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02刘安琪讲商经客观基础强化"
+            }
+          },
+          {
+            "id": "74d0d2b6887af5d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03刘安琪讲商经客观基础强化.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03刘安琪讲商经客观基础强化"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -152,7 +264,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "禁止性",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -267,10 +379,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9154c1cab7de5546",
+  "active": "07ea75003d989534",
   "lastOpenFiles": [
-    "34宪法学+第04章：国家机构（03）.md",
+    "02刘安琪讲商经客观基础强化.md",
+    "03刘安琪讲商经客观基础强化.md",
+    "01刘安琪讲商经客观基础强化.md",
+    "04.法理学+第01章+第03节：法的要素（01）.md",
+    "02.法理学+第01章+第01节：法的定义（02）.md",
+    "01.法理学+第01章+第01节：法的定义（01）.md",
+    "23宪法学+第02章+第01节：国家的基本纸质经济文化及社会制度.md",
+    "22宪法学+第01章：宪法的基本理论（04）.md",
+    "31宪法学+第03章：公民的基本权利和义务.md",
+    "30宪法学+第02章+第07节：国家标志.md",
+    "29宪法学+第02章+第06节：基层群众自治制度.md",
     "35宪法学+第05章：地方国家机关.md",
+    "34宪法学+第04章：国家机构（03）.md",
     "33宪法学+第04章：国家机构（02）.md",
     "32宪法学+第04章：国家机构（01）.md",
     "27宪法学+第02章+第04节：各级人大的选举制度（02）.md",
@@ -284,20 +407,9 @@
     "07法理学+第01章+第05-06节：法律部门与法律体系、法的效力.md",
     "08法理学+第01章+第07节：法律关系.md",
     "10.法理学+第01章+第08节：法律责任.md",
-    "11法理学+第02章+第01-02节：立法、法的实施.md",
-    "12.法理学+第02章+第03节：法适用的一般原理.md",
-    "13法理学+第02章+第04节：法律的推理.md",
-    "06.法理学+第01章+第04节：法的渊源与分类（01）.md",
-    "07法理学+第01章+第05-06节：法律部门与法律体系、法的效力-复制.md",
-    "03.法理学+第01章+第02节：法的价值.md",
-    "02.法理学+第01章+第01节：法的定义（02）.md",
-    "01.法理学+第01章+第01节：法的定义（01）.md",
-    "04.法理学+第01章+第03节：法的要素（01）.md",
-    "05.法理学+第01章+第03节：法的要素（02）.md",
     "25ZH-真金题-理论法.pdf",
     "25ZH-真金题-行政法 .pdf",
     "2024年系统强化理论法-马峰.pdf",
-    "04胡振客观导学1.30+.md",
     "2024年法考基础夯实阶段讲义-行政法-李佳.pdf",
     "2024胡震理论法客观导学讲义_1704548453561.pdf",
     "2024胡震理论法客观导学讲义（1.5）_1704548453561.pdf",
