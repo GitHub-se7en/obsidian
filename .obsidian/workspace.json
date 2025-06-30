@@ -223,16 +223,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03刘安琪讲商经客观基础强化.md",
+                "file": "01刘安琪讲商经客观基础强化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03刘安琪讲商经客观基础强化"
+              "title": "01刘安琪讲商经客观基础强化"
+            }
+          },
+          {
+            "id": "0123a7d2af450bfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.刘安琪讲商经知之客观精讲第一讲.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01.刘安琪讲商经知之客观精讲第一讲"
+            }
+          },
+          {
+            "id": "5066776a1064e716",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02.刘安琪讲商经知之客观精讲第二讲.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02.刘安琪讲商经知之客观精讲第二讲"
+            }
+          },
+          {
+            "id": "8ce3c6ffe869f4ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03.刘安琪讲商经知之客观精讲第三讲.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03.刘安琪讲商经知之客观精讲第三讲"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -379,11 +421,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07ea75003d989534",
+  "active": "8ce3c6ffe869f4ff",
   "lastOpenFiles": [
+    "02.刘安琪讲商经知之客观精讲第二讲.md",
+    "03.刘安琪讲商经知之客观精讲第三讲.md",
+    "01.刘安琪讲商经知之客观精讲第一讲.md",
+    "01刘安琪讲商经客观基础强化.md",
     "02刘安琪讲商经客观基础强化.md",
     "03刘安琪讲商经客观基础强化.md",
-    "01刘安琪讲商经客观基础强化.md",
     "04.法理学+第01章+第03节：法的要素（01）.md",
     "02.法理学+第01章+第01节：法的定义（02）.md",
     "01.法理学+第01章+第01节：法的定义（01）.md",
@@ -404,9 +449,6 @@
     "25宪法学+第02章+第03节：我国的行政区划和民族区域自治制度.md",
     "20.宪法学+第01章：宪法的基本理论（02）.md",
     "17.法理学+补充专题+立法法（01）.md",
-    "07法理学+第01章+第05-06节：法律部门与法律体系、法的效力.md",
-    "08法理学+第01章+第07节：法律关系.md",
-    "10.法理学+第01章+第08节：法律责任.md",
     "25ZH-真金题-理论法.pdf",
     "25ZH-真金题-行政法 .pdf",
     "2024年系统强化理论法-马峰.pdf",
