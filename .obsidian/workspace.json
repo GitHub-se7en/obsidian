@@ -4,277 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "78d02d285c480afc",
+        "id": "e68bcf5249fdf35f",
         "type": "tabs",
         "children": [
           {
-            "id": "d6980d4d3b766cdc",
+            "id": "d32206474e327c30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "24宪法学+第02章+第02节：政权组织和国家结构形式.md",
+                "file": "刑法-故意犯罪.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24宪法学+第02章+第02节：政权组织和国家结构形式"
+              "title": "刑法-故意犯罪"
             }
           },
           {
-            "id": "a89d4f7d43b8ee3a",
+            "id": "6ee6dca559383af6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "18.法理学+补充专题+立法法（02）.md",
+                "file": "09.第06讲：客观要件四：因果关系.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18.法理学+补充专题+立法法（02）"
+              "title": "09.第06讲：客观要件四：因果关系"
             }
           },
           {
-            "id": "c41e89da4d62c3b3",
+            "id": "b2b3101b94976109",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26宪法学+第02章+第04节：各级人大的选举制度（01）.md",
+                "file": "10.第07讲：（客观）违法阻却事由（01）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26宪法学+第02章+第04节：各级人大的选举制度（01）"
+              "title": "10.第07讲：（客观）违法阻却事由（01）"
             }
           },
           {
-            "id": "d50e36bc8a3e21f3",
+            "id": "c38dd041a68653dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "27宪法学+第02章+第04节：各级人大的选举制度（02）.md",
+                "file": "刑法-动机错误-不构成强奸罪.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "27宪法学+第02章+第04节：各级人大的选举制度（02）"
+              "title": "刑法-动机错误-不构成强奸罪"
             }
           },
           {
-            "id": "4ba6edfa66a76542",
+            "id": "bc4692731876ca4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "32宪法学+第04章：国家机构（01）.md",
+                "file": "11.第07讲：（客观）违法阻却事由（02）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "32宪法学+第04章：国家机构（01）"
+              "title": "11.第07讲：（客观）违法阻却事由（02）"
             }
           },
           {
-            "id": "5bd0fc97469857f7",
+            "id": "e94d2499daf3ac5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "33宪法学+第04章：国家机构（02）.md",
+                "file": "12.第08讲：主观要件（01）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "33宪法学+第04章：国家机构（02）"
+              "title": "12.第08讲：主观要件（01）"
             }
           },
           {
-            "id": "7e81fcfe001369e6",
+            "id": "3d3f4fa1a20e3988",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "34宪法学+第04章：国家机构（03）.md",
+                "file": "第08个基础概念：危害行为.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "34宪法学+第04章：国家机构（03）"
-            }
-          },
-          {
-            "id": "9154c1cab7de5546",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "35宪法学+第05章：地方国家机关.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "35宪法学+第05章：地方国家机关"
-            }
-          },
-          {
-            "id": "9ee2937f168f4304",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "29宪法学+第02章+第06节：基层群众自治制度.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "29宪法学+第02章+第06节：基层群众自治制度"
-            }
-          },
-          {
-            "id": "ae7af8a7782f5724",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "30宪法学+第02章+第07节：国家标志.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "30宪法学+第02章+第07节：国家标志"
-            }
-          },
-          {
-            "id": "79a6b913c00d9bed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "31宪法学+第03章：公民的基本权利和义务.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "31宪法学+第03章：公民的基本权利和义务"
-            }
-          },
-          {
-            "id": "1a55e6d33c03929d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "22宪法学+第01章：宪法的基本理论（04）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "22宪法学+第01章：宪法的基本理论（04）"
-            }
-          },
-          {
-            "id": "37f3943d2dd48716",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04.法理学+第01章+第03节：法的要素（01）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04.法理学+第01章+第03节：法的要素（01）"
-            }
-          },
-          {
-            "id": "93dc57b49efb23b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01刘安琪讲商经客观基础强化.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01刘安琪讲商经客观基础强化"
-            }
-          },
-          {
-            "id": "dc7df04a2213b5a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02刘安琪讲商经客观基础强化.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02刘安琪讲商经客观基础强化"
-            }
-          },
-          {
-            "id": "74d0d2b6887af5d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01刘安琪讲商经客观基础强化.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01刘安琪讲商经客观基础强化"
-            }
-          },
-          {
-            "id": "0123a7d2af450bfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01.刘安琪讲商经知之客观精讲第一讲.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01.刘安琪讲商经知之客观精讲第一讲"
-            }
-          },
-          {
-            "id": "5066776a1064e716",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02.刘安琪讲商经知之客观精讲第二讲.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02.刘安琪讲商经知之客观精讲第二讲"
-            }
-          },
-          {
-            "id": "8ce3c6ffe869f4ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03.刘安琪讲商经知之客观精讲第三讲.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03.刘安琪讲商经知之客观精讲第三讲"
+              "title": "第08个基础概念：危害行为"
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -306,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "禁止性",
+                "query": "撞死",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -421,34 +253,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ce3c6ffe869f4ff",
+  "active": "e94d2499daf3ac5d",
   "lastOpenFiles": [
-    "02.刘安琪讲商经知之客观精讲第二讲.md",
-    "03.刘安琪讲商经知之客观精讲第三讲.md",
-    "01.刘安琪讲商经知之客观精讲第一讲.md",
-    "01刘安琪讲商经客观基础强化.md",
-    "02刘安琪讲商经客观基础强化.md",
-    "03刘安琪讲商经客观基础强化.md",
-    "04.法理学+第01章+第03节：法的要素（01）.md",
-    "02.法理学+第01章+第01节：法的定义（02）.md",
-    "01.法理学+第01章+第01节：法的定义（01）.md",
-    "23宪法学+第02章+第01节：国家的基本纸质经济文化及社会制度.md",
-    "22宪法学+第01章：宪法的基本理论（04）.md",
-    "31宪法学+第03章：公民的基本权利和义务.md",
-    "30宪法学+第02章+第07节：国家标志.md",
-    "29宪法学+第02章+第06节：基层群众自治制度.md",
-    "35宪法学+第05章：地方国家机关.md",
-    "34宪法学+第04章：国家机构（03）.md",
-    "33宪法学+第04章：国家机构（02）.md",
-    "32宪法学+第04章：国家机构（01）.md",
-    "27宪法学+第02章+第04节：各级人大的选举制度（02）.md",
-    "26宪法学+第02章+第04节：各级人大的选举制度（01）.md",
-    "18.法理学+补充专题+立法法（02）.md",
-    "28宪法学+第02章+第05节：特别行政区制度.md",
-    "24宪法学+第02章+第02节：政权组织和国家结构形式.md",
-    "25宪法学+第02章+第03节：我国的行政区划和民族区域自治制度.md",
-    "20.宪法学+第01章：宪法的基本理论（02）.md",
-    "17.法理学+补充专题+立法法（01）.md",
+    "11.第07讲：（客观）违法阻却事由（02）.md",
+    "12.第08讲：主观要件（01）.md",
+    "刑法-动机错误-不构成强奸罪.md",
+    "10.第07讲：（客观）违法阻却事由（01）.md",
+    "刑法-故意犯罪.md",
+    "09.第06讲：客观要件四：因果关系.md",
+    "第08个基础概念：危害行为.md",
+    "第06个基础概念：犯罪构成体系（定罪标准）.md",
+    "刑法-强奸罪-只针对活人.md",
+    "刑法-强化-08-第五讲.md",
+    "刑法-危害行为-实害行为.md",
+    "2024私塾民法系统精讲13民法总则.md",
+    "刑法-行为与目的存在的原则.md",
+    "民法-175题.md",
+    "10私塾民法系统精讲1.29.md",
+    "282023独角兽法考基础精讲民法-韩祥波.md",
+    "2025韩祥波法考民法主客一体精讲课23.md",
+    "民法-区分原则.md",
+    "532023独角兽法考基础精讲民法-韩祥波.md",
+    "522023独角兽法考基础精讲民法-韩祥波.md",
+    "512023独角兽法考基础精讲民法-韩祥波.md",
+    "502023独角兽法考基础精讲民法-韩祥波.md",
+    "492023独角兽法考基础精讲民法-韩祥波.md",
+    "482023独角兽法考基础精讲民法-韩祥波.md",
+    "472023独角兽法考基础精讲民法-韩祥波.md",
+    "462023独角兽法考基础精讲民法-韩祥波.md",
+    "【讲义】24法考瑞达刘安琪讲商经知之客观题基础强化(e学专用).pdf",
     "25ZH-真金题-理论法.pdf",
     "25ZH-真金题-行政法 .pdf",
     "2024年系统强化理论法-马峰.pdf",
@@ -458,7 +291,6 @@
     "2025年法考韩祥波民法精讲(OCR).pdf",
     "2024私塾民法精讲（第一期：总则+物权）.pdf",
     "2024年法考基础夯实阶段讲义-刑法-柏浪涛.pdf",
-    "2024年精讲卷温云云刑诉法黑白版本.pdf",
     "Untitled.canvas"
   ]
 }
