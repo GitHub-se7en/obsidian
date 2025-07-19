@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "戴鹏-第01-02讲民事诉讼与民事诉讼法.md",
+                "file": "柏浪涛08.第05讲：客观要件三：结果.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "戴鹏-第01-02讲民事诉讼与民事诉讼法"
+              "title": "柏浪涛08.第05讲：客观要件三：结果"
+            }
+          },
+          {
+            "id": "02f2a6632e317af0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "柏浪涛第09个基础概念：危害结果.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "柏浪涛第09个基础概念：危害结果"
+            }
+          },
+          {
+            "id": "12122f485621ef0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "刑法-药品类犯罪.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "刑法-药品类犯罪"
             }
           },
           {
@@ -49,7 +77,8 @@
               "title": "柏浪涛09.第06讲：客观要件四：因果关系"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "无过错责任",
+                "query": "实害犯",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +131,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,13 +226,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63a77e8a1380ef6e",
+  "active": "02f2a6632e317af0",
   "lastOpenFiles": [
-    "obsidian/2024年法考基础夯实阶段讲义-民诉-戴鹏.pdf",
-    "obsidian/README.md",
-    "obsidian",
-    "2024年法考基础夯实阶段讲义-民诉-戴鹏.pdf",
+    "柏浪涛08.第05讲：客观要件三：结果.md",
+    "刑法-药品类犯罪.md",
+    "柏浪涛38系统强化刑法—第20讲：经济犯罪（01）.md",
     "戴鹏-第01-02讲民事诉讼与民事诉讼法.md",
+    "obsidian/温云云强化03.2024刑诉客观重点强化·温云云刑诉法私塾.pdf",
+    "obsidian/刘安琪24法考瑞达刘安琪讲商经知之客观题基础强化(e学专用).pdf",
+    "obsidian/韩祥波2025年法考韩祥波民法精讲(OCR).pdf",
+    "obsidian/温云云2024年精讲卷温云云刑诉法黑白版本.pdf",
+    "obsidian/韩祥波2024私塾民法精讲（第一期：总则+物权）.pdf",
+    "obsidian/柏浪涛2024年法考基础夯实阶段讲义-刑法-柏浪涛.pdf",
+    "obsidian/韩祥波2024民法主客一体私塾班讲义(第二期)债、婚、继、人格（2024版定）.pdf",
+    "obsidian/马峰25ZH-真金题-理论法.pdf",
+    "obsidian/李佳25ZH-真金题-行政法.pdf",
+    "obsidian/胡震2024胡震理论法客观导学讲义_1704548453561.pdf",
+    "obsidian/README.md",
     "韩祥波独角兽562023独角兽法考基础精讲民法-韩祥波.md",
     "662023独角兽法考基础精讲民法-韩祥波.md",
     "韩祥波独角兽662023独角兽法考基础精讲民法-韩祥波.md",
@@ -224,15 +264,6 @@
     "592023独角兽法考基础精讲民法-韩祥波.md",
     "582023独角兽法考基础精讲民法-韩祥波.md",
     "572023独角兽法考基础精讲民法-韩祥波.md",
-    "刘安琪04刘安琪讲商经客观基础强化.md",
-    "42系统强化刑法—第21讲：社会秩序犯罪（02）.md",
-    "温云云强化03.2024刑诉客观重点强化·温云云刑诉法私塾.pdf",
-    "韩祥波2025年法考韩祥波民法精讲(OCR).pdf",
-    "韩祥波2024私塾民法精讲（第一期：总则+物权）.pdf",
-    "马峰2024年系统强化理论法-马峰.pdf",
-    "温云云2024年精讲卷温云云刑诉法黑白版本.pdf",
-    "李佳2024年法考基础夯实阶段讲义-行政法-李佳.pdf",
-    "柏浪涛2024年法考基础夯实阶段讲义-刑法-柏浪涛.pdf",
     "Untitled.canvas"
   ]
 }
